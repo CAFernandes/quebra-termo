@@ -1,0 +1,28 @@
+:root {
+  --primary-color: #185ee0;
+  --secondary-color: #e6eef9;
+  --contrast-color: #E0492F;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #e6eef975;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
